@@ -39,17 +39,6 @@ This repository contains all of the solved Deep Learning programs from the __Dee
 27) *[Named Entity Recognition using Transformers](./5_sequential_neural_networks/9_named_entity_recognition/Transformer_application_Named_Entity_Recognition.ipynb)*
 28) *[Question-Answering Transformer](./5_sequential_neural_networks/9_question_answering/QA_transformer.ipynb)*
 
-## Logistic Regression as a Neural Network
-
-Description of the project. Discuss the implementation, key concepts, and any notable challenges faced during completion.
-
-[Link to Logistic Regression Project](./logistic_regression_as_ann/)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-Mention any credits, inspirations, or resources that were helpful in completing the projects.
-
