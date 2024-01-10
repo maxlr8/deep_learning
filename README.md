@@ -2,7 +2,7 @@
 
 This repository contains all of the solved Deep Learning programs from the __Deep Learning Specialization__ on Coursera offered by deeplearning.ai. The specialization is created by Andrew Ng. and it covers the following topics:
 
-1) **[Neural Networks and Deep Learning](./1_neural_networks_and_deep_learning)**
+## 1) **[Neural Networks and Deep Learning](./1_neural_networks_and_deep_learning)**
     1) *[Logistic Regression with a Neural Network mindset](./1_neural_networks_and_deep_learning/1_logistic_regression_as_ann/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)*
     2) *[Planar Data Classification](./1_neural_networks_and_deep_learning/2_planar_data_classification/Planar_data_classification_with_onehidden_layer.ipynb)*
     3) *[Building a DNN step-by-step](./1_neural_networks_and_deep_learning/3_building_a_deep_neural_network/Building_a_Deep_Neural_Network_Step_by_Step.ipynb)*
