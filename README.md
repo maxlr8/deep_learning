@@ -9,11 +9,11 @@ This repository contains all of the solved Deep Learning programs from the __Dee
     4) *[Image Classification](./1_neural_networks_and_deep_learning/4_image_classification_using_dnn/Image%20Classification%20App.ipynb)*
 
 2) **[Improving Deep Neural Networks](./2_hyperparameter_tuning_and_regularization)**
-    5) *[Gradient_Checking](./2_hyperparameter_tuning_and_regularization/1_gradient_checking/Gradient%20Checking.ipynb)*
-    6) *[Initialization](./2_hyperparameter_tuning_and_regularization/2_initialization/Initialization.ipynb)*
-    7) *[Regularization](./2_hyperparameter_tuning_and_regularization/3_regularization/Regularization.ipynb)*
-    8) *[Optimization Methods](./2_hyperparameter_tuning_and_regularization/4_optimization_methods/Optimization_methods.ipynb)*
-    9) *[Tensorflow Basics](./2_hyperparameter_tuning_and_regularization/5_tensorflow/Tensorflow_introduction.ipynb)*
+    1) *[Gradient_Checking](./2_hyperparameter_tuning_and_regularization/1_gradient_checking/Gradient%20Checking.ipynb)*
+    2) *[Initialization](./2_hyperparameter_tuning_and_regularization/2_initialization/Initialization.ipynb)*
+    3) *[Regularization](./2_hyperparameter_tuning_and_regularization/3_regularization/Regularization.ipynb)*
+    4) *[Optimization Methods](./2_hyperparameter_tuning_and_regularization/4_optimization_methods/Optimization_methods.ipynb)*
+    5) *[Tensorflow Basics](./2_hyperparameter_tuning_and_regularization/5_tensorflow/Tensorflow_introduction.ipynb)*
 
 3) **[Structuring Machine LEarning Projects](./3_structuring_ml_projects)**
 
